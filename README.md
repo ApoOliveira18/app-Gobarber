@@ -17,7 +17,7 @@
 
 ## 💻 Project
 
-<p>O App GoBarber foi desenvolvido para que o cliente da barbearia possa fazer o agendamento do corte de seu cabelo ou barba escolhendo uma data na agenda de qualquer um dos barbeiros disponíveis naquele dia. Através do app, ele pode atualizar as informações de seu perfil e seu Avatar. Já o barbeiro, caso ele queira gerenciar sua agenda, existe uma aplicação web que lhe permite fazer isso, além de gerencias informações de seu perfil. Conheça a aplicação clicando neste link &nbsp;&nbsp; <a href="#">Aplicativo Web do Barbeiro</a>   </p>
+<p>O App GoBarber foi desenvolvido para que o cliente da barbearia possa fazer o agendamento do corte de seu cabelo ou barba escolhendo uma data na agenda de qualquer um dos barbeiros disponíveis naquele dia. Através do app, ele pode atualizar as informações de seu perfil e seu Avatar. Já o barbeiro, caso ele queira gerenciar sua agenda, existe uma aplicação web que lhe permite fazer isso, além de gerencias informações de seu perfil. Conheça a aplicação clicando neste link &nbsp;&nbsp; <a href="https://github.com/ApoOliveira18/Projeto-GoBarber">Aplicativo Web do Barbeiro</a>   </p>
 
 <p align="center">    
   <img alt="Login-Page" title="Login-Page" src="src/assets/int1.png" width="300px" />
