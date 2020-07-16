@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="AppGoBarber" title="#Logo" src="src/assets/logo.png" width="250px" bgcolor="#000000"/>
+    <img alt="AppGoBarber" title="#Logo" src="src/assets/lg.png" width="250px" bgcolor="#000000"/>
 </h1>
 
 <h4 align="center"> 
