@@ -7,15 +7,15 @@
 </h4>
 
 <p align="center">
-  <a href="#-project">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-Technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projecto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-use">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-contribute">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-usar">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">Licença</a>
 </p>
 
-## 💻 Project
+## 💻 Projecto
 
 <p>O App GoBarber foi desenvolvido para que o cliente da barbearia possa fazer o agendamento do corte de seu cabelo ou barba escolhendo uma data na agenda de qualquer um dos barbeiros disponíveis naquele dia. Através do app, ele pode atualizar as informações de seu perfil e seu Avatar. Já o barbeiro, caso ele queira gerenciar sua agenda, existe uma aplicação web que lhe permite fazer isso, além de gerencias informações de seu perfil. Conheça a aplicação clicando neste link &nbsp;&nbsp; <a href="https://github.com/ApoOliveira18/Projeto-GoBarber">Aplicativo Web do Barbeiro</a>   </p>
 
@@ -26,14 +26,14 @@
  </p>
 
 
-## :rocket: Technologies
+## :rocket: Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [ReactNative](https://reactnative.dev/) 
 - [Typescript](https://www.typescriptlang.org/docs/home.html)
 
-## :information_source: How To Use
+## :information_source: Como Usar
 
 Para clonar a aplicação, você necessitará do [Git](https://git-scm.com), [ReactNative][reactnative] + [Yarn][yarn] instalados em seu computador.
 
@@ -51,7 +51,7 @@ $yarn
 
 ```
 
-## 🤔 How to contribute
+## 🤔 Como Contribuir
 
 - Make a fork;
 - Create a branck with your feature: `git checkout -b my-feature`;
@@ -62,7 +62,7 @@ After merging your receipt request to done, you can delete a branch from yours.
 
 ## :memo: License
 
-This project is under the MIT license. See the [LICENSE](LICENSE.md) for details.
+Este projeto está sob licença MIT. Veja a [LICENSE] para mais informações.
 
 ---
 
